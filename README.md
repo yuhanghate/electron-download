@@ -1,1 +1,2 @@
-# electron-download
+
+我自己用`golang` 写了脚本。轻量的脚手架，自动读取 `package.json` 文件中的 `electron`版本号。去第三方镜像网站自动下载。写到不同平台的缓存路径下。使用 `golang` 是因为可以跨平台，所以系统都可以直接使用。
